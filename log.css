@@ -1,0 +1,46 @@
+body{
+ 	background-image: url("green.jpg");
+
+	margin:0;
+}
+
+#header{
+	background-color: LightYellow;
+	margin-left: 0px;
+	color: black;
+	padding: 7px;
+	text-align: center;
+
+}
+
+#footer{
+	background-color: LightYellow;
+	color: black;
+	padding: 0px;
+	text-align: center;
+	margin-top: 180px;
+}
+
+#con{
+	background-color: LightYellow;
+	width: 400px;
+	opacity: 0.7;
+	height: 200px;	
+	margin-left: 450px;
+	margin-top: 200px;
+}
+#sub{
+	padding-left: 175px;
+	padding-top: 20px;
+}
+#use{
+
+    margin-left: 25px;
+    padding-top: 60px;
+}
+#use2{
+
+    margin-left: 29px;
+    padding-top: 3px;
+
+}
